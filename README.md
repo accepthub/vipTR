@@ -1,2 +1,2 @@
 # vipTR
-The Codes for VIPTR: A Vision Permutable Extractor for Fast and Efficient Scene Text Recognition
+The Codes for SVIPTR: Fast and Efficient Scene Text Recognition with Vision Permutable Extractor
